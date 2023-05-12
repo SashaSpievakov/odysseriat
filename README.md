@@ -6,10 +6,10 @@
 
 <br/>
 
-<!-- ## Description
+## Description
 
-> ### An innovative online pizza store
+> ### The store provides an all-in-one platform
 >
-> ### offering a delicious selection of handcrafted pizzas
+> ### to purchase and book vacation tours,
 >
-> ### with a seamless ordering experience. -->
+> ### ensuring adventures tailored to your preferences.
