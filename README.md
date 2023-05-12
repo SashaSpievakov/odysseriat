@@ -1,6 +1,6 @@
 # Odyssey Outings
 
-![Website Preview](/assets/img/previw.webp)
+![Website Preview](/assets/img/preview.webp)
 
 ## [View Deployment](https://sashaspievakov.github.io/odyssey-outings/)
 
