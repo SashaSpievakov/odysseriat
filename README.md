@@ -1,12 +1,12 @@
 # Odyssey Outings
 
-<!-- ![Website Preview](/public/assets/crust&co-work.webp)
+<!-- ![Website Preview](/public/assets/crust&co-work.webp) -->
 
-## [View Deployment](https://crustco.netlify.app/)
+## [View Deployment](https://sashaspievakov.github.io/odyssey-outings/)
 
 <br/>
 
-## Description
+<!-- ## Description
 
 > ### An innovative online pizza store
 >
