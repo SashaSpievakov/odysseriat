@@ -1,8 +1,8 @@
-# Odyssey Outings
+# Odysseriat
 
 ![Website Preview](/assets/img/preview.webp)
 
-## [View Deployment](https://sashaspievakov.github.io/odyssey-outings/)
+## [View Deployment](https://sashaspievakov.github.io/odysseriat/)
 
 <br/>
 
