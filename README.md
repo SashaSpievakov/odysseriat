@@ -1,6 +1,6 @@
 # Odyssey Outings
 
-<!-- ![Website Preview](/public/assets/crust&co-work.webp) -->
+![Website Preview](/assets/img/previw.webp)
 
 ## [View Deployment](https://sashaspievakov.github.io/odyssey-outings/)
 
