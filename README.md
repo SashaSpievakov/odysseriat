@@ -10,6 +10,4 @@
 
 > ### The store provides an all-in-one platform
 >
-> ### to book vacation tours,
->
-> ### ensuring adventures tailored to your preferences.
+> ### to book vacation tours.
